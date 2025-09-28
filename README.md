@@ -1,2 +1,2 @@
-## Simple python docker dev example for the official docker docs
-https://docs.docker.com/language/python/develop/
+## lab 5  python docker example part 2
+
